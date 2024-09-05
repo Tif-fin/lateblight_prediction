@@ -1,0 +1,18 @@
+django
+apscheduler
+geopy
+numpy==1.24.3
+pandas==1.3.5
+pymongo
+torch
+torchvision
+torchaudio
+tqdm
+torch_geometric==2.4.0
+wheel
+torch_geometric_temporal
+python-dotenv
+django-crontab
+
+
+sudo apt-get install postfix
